@@ -1,5 +1,0 @@
-name = "unity-it-website"
-compatibility_date = "2024-03-24"
-
-[site]
-bucket = "." 
